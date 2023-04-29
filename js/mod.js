@@ -1,11 +1,8 @@
 let modInfo = {
-	name: "Prestige Tree Rewritten",
-	id: "ptr",
-	author: "Jacorb",
+	name: "Quantum Incrementum",
+	id: "QTI",
+	author: "enINFAMOUSvy",
 	pointsName: "points",
-	discordName: "PT Rewritten Server",
-	discordLink: "https://discord.gg/TFCHJJT",
-	changelogLink: "https://github.com/Jacorb90/Prestige-Tree/blob/master/changelog.md",
     offlineLimit: 1,  // In hours
     initialStartPoints: new Decimal(10), // Used for hard resets and new players
 	endgame: new Decimal("e3.14e16"),
